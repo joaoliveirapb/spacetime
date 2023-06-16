@@ -26,9 +26,7 @@ O projeto é uma cápsula do tempo onde podemos postar na timeline textos, fotos
 
 ## 📷 Screenshots Mobile
 
-![memories mobile](./.github/memories-mobile.png)
-
-![new memory mobile](./.github/new-memory-mobile.png)
+![preview screens mobile](./.github/preview-mobile.png)
 
 ## 🛠️ Tecnologias
 
