@@ -2,7 +2,7 @@
 
 ---
 
-[Projeto](#spacetime) • [Imagens do projeto](#📷-screenshots) • [Tecnologias](#🛠️-tecnologias) • [Contato](#🤍-contato)
+[Projeto](#spacetime) • [Imagens do projeto](#screenshots) • [Tecnologias](#tecnologias) • [Contato](#contato)
 
 # Spacetime
 
@@ -10,7 +10,7 @@ O Spacetime foi desenvolvido durante o evento NLW (Next Level Week) 12 da [Rocke
 
 O projeto é uma cápsula do tempo onde podemos postar na timeline textos, fotos e vídeos de momentos especiais de nossa vida, organizados por mês e ano.
 
-## 📷 Screenshots
+## Screenshots
 
 ### Screen da página home sem memórias
 
@@ -24,11 +24,11 @@ O projeto é uma cápsula do tempo onde podemos postar na timeline textos, fotos
 
 ![memories](./.github/memories.png)
 
-## 📷 Screenshots Mobile
+## Screenshots Mobile
 
 ![preview screens mobile](./.github/preview-mobile.png)
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - React
 - React Native
@@ -44,7 +44,7 @@ O projeto é uma cápsula do tempo onde podemos postar na timeline textos, fotos
 - Expo
 - TailwindCSS
 
-## 🤍 Contato
+## Contato
 Criado por João Oliveira
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-oliveira-preto-batista/)
